@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/abhinavmall/NightlifeCoordinationApp.svg?style=svg)](https://circleci.com/gh/abhinavmall/NightlifeCoordinationApp)
 # Nightlife Coordination App
 Freecodecamp Web Application Project 3
 

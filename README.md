@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/abhinavmall/NightlifeCoordinationApp.svg?style=svg)](https://circleci.com/gh/abhinavmall/NightlifeCoordinationApp)
+[![CircleCI](https://circleci.com/gh/abhinavmall/Nightlife-Coordination-App.svg?style=svg)](https://circleci.com/gh/abhinavmall/Nightlife-Coordination-App)
+
 # Nightlife Coordination App
 Freecodecamp Web Application Project 3
 
@@ -7,3 +8,5 @@ Freecodecamp Web Application Project 3
 * [ ] As an authenticated user, I can add myself to a bar to indicate I am going there tonight.
 * [ ] As an authenticated user, I can remove myself from a bar if I no longer want to go there.
 * [ ] As an unauthenticated user, when I login I should not have to search again.
+
+Deployed at ```https://abhinavmall-nightlife-app.herokuapp.com/```
